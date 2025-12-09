@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  overflow-x: hidden;
+  background-color: #FAF1DD; 
+      font-family: 'Nunito', 'DM Sans', 'Poppins', sans-serif;
+}
+
+
+
+
+/* Just to make sure body never shrinks */
+body {
+  display: block;
+}
