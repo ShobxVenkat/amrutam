@@ -34,7 +34,7 @@ It's time to bring spa home and unwind.`,
     ],
 
     keyIngredients: [
-      { name: "Citrak", slug: "citrak-plumbago-zeylanica" },
+      { name: "Chitrak", slug: "citrak-plumbago-zeylanica" },
       { name: "Bhringraj", slug: "bhringraj-eclipta-alba" },
       { name: "Brahmi", slug: "brahmi-bacopa-monnieri" },
     ],
